@@ -56,7 +56,7 @@ Specific goals:
 ## 1. Building-Level Solar Dataset
 
 Contains rooftop solar potential information for approximately **384,525–384,908 buildings** across Hamburg.
- # https://suche.transparenz.hamburg.de/dataset/solarpotenzialflaechen-hamburg9?utm
+https://suche.transparenz.hamburg.de/dataset/solarpotenzialflaechen-hamburg9?utm
 
 ### Features
 
@@ -73,7 +73,7 @@ Contains rooftop solar potential information for approximately **384,525–384,9
 ## 2. Hamburg District Boundaries Dataset
 
 Administrative boundary polygons representing Hamburg's districts.
-# https://gist.github.com/Kilie/179dca3a1dfd103be692357160a7c8be?utm
+https://gist.github.com/Kilie/179dca3a1dfd103be692357160a7c8be?utm
 
 
 ### Features
