@@ -46,7 +46,7 @@ Specific goals:
 | Name              | Country | Background                            | Role                                                      |
 | ----------------- | ------- | ------------------------------------- | --------------------------------------------------------- |
 | Bahareh Fatemi    | Iran    | Electronic Communications Engineering | Geospatial Analysis & Python Development                  |
-| Dhrupti Pambhar   | India   | Software Engineer                     | Project Planning & Insights Generation                    |
+| Dhrupti Pambhar   | India   | Software Engineer                     | Project Planning, Dashboard & Insights Generation         |
 | Zainab Olukoga O. | Nigeria | Mathematical Sciences                 | Renewable Energy Research, Dashboard & Python Development |
 
 ---
