@@ -56,6 +56,7 @@ Specific goals:
 ## 1. Building-Level Solar Dataset
 
 Contains rooftop solar potential information for approximately **384,525–384,908 buildings** across Hamburg.
+ # https://suche.transparenz.hamburg.de/dataset/solarpotenzialflaechen-hamburg9?utm
 
 ### Features
 
@@ -72,6 +73,8 @@ Contains rooftop solar potential information for approximately **384,525–384,9
 ## 2. Hamburg District Boundaries Dataset
 
 Administrative boundary polygons representing Hamburg's districts.
+# https://gist.github.com/Kilie/179dca3a1dfd103be692357160a7c8be?utm
+
 
 ### Features
 
@@ -372,34 +375,6 @@ Through this project, we gained practical experience in:
 * Develop fully interactive GIS-based web maps.
 * Expand dashboard with sustainability indicators.
 * Build predictive models for future solar adoption.
-
----
-
-# 📂 Repository Structure
-
-```text
-📦 Renewable-Energy-Hamburg
-│
-├── data/
-│   ├── solar_dataset.csv
-│   └── hamburg_districts.geojson
-│
-├── notebooks/
-│   └── Renewable_Energy_Analysis.ipynb
-│
-├── dashboards/
-│   └── Looker_Studio_Link.md
-│
-├── images/
-│   ├── solar_potential_map.png
-│   ├── top_districts.png
-│   └── dashboard_preview.png
-│
-├── README.md
-└── requirements.txt
-```
-
----
 
 # 🌍 Impact
 
