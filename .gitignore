@@ -1,0 +1,19 @@
+# Data downloads and generated outputs (the building CSV is ~224 MB)
+*.csv
+*.geojson
+!tests/**/*.csv
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
